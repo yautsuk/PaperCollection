@@ -11,3 +11,4 @@ An Intuitive Explanation of Sparse Autoencoders for LLM Interpretability [/] [ht
 俯视LLM的灵魂：一文搞懂稀疏自动编码器 [https://www.51cto.com/aigc/1251.html] [庞德公] [SAE, blog]
 
 Interpretable Machine Learning - A Guide for Making Black Box Models Explainable [/] [https://christophm.github.io/interpretable-ml-book/] [Christoph Molnar] [book]
+
